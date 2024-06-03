@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, who we are 👋
 
 <!--
 
@@ -10,3 +10,11 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+This is the KG & DU Team, main R&D entity under the 360 AI Research Institute in NLP direction.  
+We’ve been focusing on "Knowledge Graph" and "Document Understanding",  
+conducting research in :
+
+Knowlege Graph Constrction、Represenation, Application  
+Document Analysis、Layout paser、Document Understanding & Multi-modal large language model   
+Retrieval-augmented Generation Applicaton   
