@@ -15,6 +15,6 @@ This is the KG & DU Team, main R&D entity under the 360 AI Research Institute in
 We’ve been focusing on "Knowledge Graph" and "Document Understanding",  
 conducting research in :
 
-Knowlege Graph Constrction、Represenation, Application  
-Document Analysis、Layout paser、Document Understanding & Multi-modal large language model   
-Retrieval-augmented Generation Applicaton   
+1. Knowlege Graph Constrction、Represenation, Application  
+2. Document Analysis、Layout paser、Document Understanding & Multi-modal large language model   
+3. Retrieval-augmented Generation Applicaton   
