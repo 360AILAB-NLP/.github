@@ -11,15 +11,16 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-This is the KG & DU Team, main R&D entity under the 360 AI Research Institute in NLP direction.  
+This is the KG & DU & NLP Team, main R&D entity under the 360 AI Research Institute in NLP direction.  
 We’ve been focusing on "Knowledge Graph" and "Document Understanding",  
 conducting research in :
 
-1. Knowlege Graph Construction,Represenation,Application  
+1. Knowlege Graph Construction,Represenation & NLP Application  
    eg:  
-   [1st place(2022.08): Ogbl-wikikg2](https://ogb.stanford.edu/docs/leader_linkprop/),   [paper](https://arxiv.org/pdf/2209.08271)  
-   [2nd place: CCKS2022-multi-modal entity alignment](https://tianchi.aliyun.com/competition/entrance/531956/rankingList),  [paper](https://sigkg.cn/ccks2022/?page_id=600) 
+   1)Ranked 1st in the Competition (2022.08): Ogbl-wikikg2 [leadboard](https://ogb.stanford.edu/docs/leader_linkprop/),   [paper](https://arxiv.org/pdf/2209.08271)  
+   2)Ranked 2nd in the Competition: CCKS2022-multi-modal entity alignment [leadboard](https://tianchi.aliyun.com/competition/entrance/531956/rankingList),  [paper](https://sigkg.cn/ccks2022/?page_id=600)  
+   3)Ranked 2nd in the Competition: CAIL2022 [leadboard](http://cail.cipsc.org.cn/task_summit.html?raceID=7&cail_tag=2022)
 3. Document Analysis, Layout Parser, Document Understanding & Multi-modal Large Language Models    
-5. Retrieval-augmented Generation, Application  
+5. Retrieval-augmented Generation & Application  
    eg:  
-   [paper: CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/pdf/2401.17043)   
+   CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models: [paper](https://arxiv.org/pdf/2401.17043)   
