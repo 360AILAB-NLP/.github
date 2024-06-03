@@ -16,5 +16,10 @@ We’ve been focusing on "Knowledge Graph" and "Document Understanding",
 conducting research in :
 
 1. Knowlege Graph Construction,Represenation,Application  
-2. Document Analysis, Layout Parser, Document Understanding & Multi-modal Large Language Models   
-3. Retrieval-augmented Generation, Application   
+   eg:  
+   [1st place(2022.08): Ogbl-wikikg2](https://ogb.stanford.edu/docs/leader_linkprop/),   [paper](https://arxiv.org/pdf/2209.08271)  
+   [2nd place: CCKS2022-multi modal entity aligmnent](https://tianchi.aliyun.com/competition/entrance/531956/rankingList),  [paper](https://sigkg.cn/ccks2022/?page_id=600) 
+3. Document Analysis, Layout Parser, Document Understanding & Multi-modal Large Language Models    
+5. Retrieval-augmented Generation, Application  
+   eg:  
+   [paper: CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/pdf/2401.17043)   
