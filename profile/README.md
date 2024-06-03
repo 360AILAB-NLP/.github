@@ -16,5 +16,5 @@ We’ve been focusing on "Knowledge Graph" and "Document Understanding",
 conducting research in :
 
 1. Knowlege Graph Construction,Represenation,Application  
-2. Document Analysis, Layout paser, Document Understanding & Multi-modal Large Language Models   
-3. Retrieval-augmented Generation Applicaton   
+2. Document Analysis, Layout Parser, Document Understanding & Multi-modal Large Language Models   
+3. Retrieval-augmented Generation, Applicaton   
