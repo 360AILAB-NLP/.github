@@ -23,7 +23,7 @@ conducting research in :
    
 **2. Document Analysis, Layout Parser, Document Understanding & Multi-modal Large Language Models**  
 
-   1)Chiense oriented document layout models and datasets:360LayoutAnalysis [Github](https://github.com/360AILAB-NLP/360LayoutAnalysis)
+   1)Chiense oriented document layout models:360LayoutAnalysis [Github](https://github.com/360AILAB-NLP/360LayoutAnalysis)
    
 **3. Retrieval-augmented Generation & Application** 
 
