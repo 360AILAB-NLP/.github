@@ -23,10 +23,16 @@ conducting research in :
    
 **2. Document Analysis, Layout Parser, Document Understanding & Multi-modal Large Language Models**  
 
-   1)Chiense oriented document layout models:360LayoutAnalysis [Github](https://github.com/360AILAB-NLP/360LayoutAnalysis),  [Huggingface](https://huggingface.co/qihoo360/360LayoutAnalysis)  
-   2)FlowCE:First Multi-Dimensional Evaluation of Flowchart Comprehensionfor Multimodal Large Language Models [paper](https://arxiv.org/pdf/2406.10057),  [Github](https://github.com/360AILAB-NLP/FlowCE)  
-   3)Ranked 1st in the Competition: ICPR 2024 Competition on Multi-line Mathematical Expressions Recognition [leadboard](https://note.kxsz.net/share/f4025d8b-7b50-4034-ad96-1b35633861d4)
+   1)2024-06: Chiense oriented document layout models:360LayoutAnalysis [Github](https://github.com/360AILAB-NLP/360LayoutAnalysis),  [Huggingface](https://huggingface.co/qihoo360/360LayoutAnalysis)  
+   2)2024-06: FlowCE:First Multi-Dimensional Evaluation of Flowchart Comprehensionfor Multimodal Large Language Models [paper](https://arxiv.org/pdf/2406.10057),  [Github](https://github.com/360AILAB-NLP/FlowCE)  
+   3)2024-07: Ranked 1st in the Competition: ICPR 2024 Competition on Multi-line Mathematical Expressions Recognition [leadboard](https://note.kxsz.net/share/f4025d8b-7b50-4034-ad96-1b35633861d4)
    
 **3. Retrieval-augmented Generation & Application** 
 
-   1)CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models: [paper](https://arxiv.org/pdf/2401.17043)  
+   1)2024-02: CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models: [paper](https://arxiv.org/pdf/2401.17043)  
+
+## Hi there, The Core Members.. 👋
+
+1) Liu Huanyong(刘焕勇): Team Leader, [homepage](https://liuhuanyong.github.io),   [github](https://github.com/liuhuanyong)
+2) Yu Junhui(余俊晖): Team Core Member, [homepage](https://liuhuanyong.github.io),   [github](https://github.com/liuhuanyong)
+
