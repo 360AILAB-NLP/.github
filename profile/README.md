@@ -31,7 +31,7 @@ conducting research in :
 
    1)2024-02: CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models: [paper](https://arxiv.org/pdf/2401.17043)  
 
-## The Core Members 👋
+## Team Core Members 👋
 
 1) Liu Huanyong(刘焕勇): Team Leader, [homepage](https://liuhuanyong.github.io),   [github](https://github.com/liuhuanyong)
 
