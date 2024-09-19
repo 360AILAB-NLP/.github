@@ -25,8 +25,9 @@ conducting research in :
 
    1)2024-06: Chiense oriented document layout models:360LayoutAnalysis [Github](https://github.com/360AILAB-NLP/360LayoutAnalysis),  [Huggingface](https://huggingface.co/qihoo360/360LayoutAnalysis)  
    2)2024-06: FlowCE:First Multi-Dimensional Evaluation of Flowchart Comprehensionfor Multimodal Large Language Models [paper](https://arxiv.org/pdf/2406.10057),  [Github](https://github.com/360AILAB-NLP/FlowCE)  
-   3)2024-07: Ranked 1st in the Competition: ICPR 2024 Competition on Multi-line Mathematical Expressions Recognition [leadboard](https://note.kxsz.net/share/f4025d8b-7b50-4034-ad96-1b35633861d4)
-   
+   3)2024-07: Ranked 1st in the Competition: ICPR 2024 Competition on Multi-line Mathematical Expressions Recognition [leadboard](https://note.kxsz.net/share/f4025d8b-7b50-4034-ad96-1b35633861d4)  
+   4)2024-09: Enhancing Complex Formula Recognition with Hierarchical Detail-Focused Network [paper](https://arxiv.org/abs/2409.11677)
+
 **3. Retrieval-augmented Generation & Application** 
 
    1)2024-02: CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models: [paper](https://arxiv.org/pdf/2401.17043)  
