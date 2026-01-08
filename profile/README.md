@@ -10,9 +10,9 @@ This is the KG & DU Team, Official R&D entity under the 360 AI Research Institut
    
    3)🔬paper: 2022. Multimodal Entity Alignment Model Based on Interactive Encoder and Knowledge Distillation,(https://sigkg.cn/ccks2022/?page_id=600)     
    
-   3)🏆Competition：2022. Ranked 2nd in the Competition: CAIL2022 [leadboard](http://cail.cipsc.org.cn/task_summit.html?raceID=7&cail_tag=2022)  
+   4)🏆Competition：2022. Ranked 2nd in the Competition: CAIL2022 [leadboard](http://cail.cipsc.org.cn/task_summit.html?raceID=7&cail_tag=2022)  
    
-   4)🔬Paper: 2022. Triplere: Knowledge graph embeddings via tripled relation vectors:[paper](https://arxiv.org/abs/2209.08271)  
+   5)🔬Paper: 2022. Triplere: Knowledge graph embeddings via tripled relation vectors:[paper](https://arxiv.org/abs/2209.08271)  
    
 **2. Document Analysis, Layout Parser, Document Understanding & Multi-modal Large Language Models**  
 
