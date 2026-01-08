@@ -1,6 +1,6 @@
 ## Hi there, who we are 👋
 
-This is the KG & DU & NLP Team, main R&D entity under the 360 AI Research Institute in NLP direction.  We’ve been focusing on "**Knowledge Graph**" and "**Document Understanding**",  conducting research and developing below:
+This is the KG & DU Team, Official R&D entity under the 360 AI Research Institute.  We’ve been focusing on "**Knowledge Graph**" and "**Document Understanding**",  conducting research and developing below:
 
 **1. Knowlege Graph Construction,Represenation & NLP Application**  
 
