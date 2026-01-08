@@ -17,18 +17,20 @@ conducting research in :
 
 **1. Knowlege Graph Construction,Represenation & NLP Application**  
 
-   1)Ranked 1st in the Competition (2022.08): Ogbl-wikikg2 [leadboard](https://ogb.stanford.edu/docs/leader_linkprop/),   [paper](https://arxiv.org/pdf/2209.08271)  
-   2)Ranked 2nd in the Competition: CCKS2022-multi-modal entity alignment [leadboard](https://tianchi.aliyun.com/competition/entrance/531956/rankingList),  [paper](https://sigkg.cn/ccks2022/?page_id=600)  
-   3)Ranked 2nd in the Competition: CAIL2022 [leadboard](http://cail.cipsc.org.cn/task_summit.html?raceID=7&cail_tag=2022)
+   1)Competition：Ranked 1st in the Competition (2022.08): Ogbl-wikikg2 [leadboard](https://ogb.stanford.edu/docs/leader_linkprop/)
+   2)Competition：Ranked 2nd in the Competition: CCKS2022-multi-modal entity alignment [leadboard](https://tianchi.aliyun.com/competition/entrance/531956/rankingList),  [paper](https://sigkg.cn/ccks2022/?page_id=600)  
+   3)Competition：Ranked 2nd in the Competition: CAIL2022 [leadboard](http://cail.cipsc.org.cn/task_summit.html?raceID=7&cail_tag=2022)
+   4)Paper: Triplere: Knowledge graph embeddings via tripled relation vectors:[paper](https://arxiv.org/abs/2209.08271)
    
 **2. Document Analysis, Layout Parser, Document Understanding & Multi-modal Large Language Models**  
 
-   1)2024-06: Chiense oriented document layout models:360LayoutAnalysis [Github](https://github.com/360AILAB-NLP/360LayoutAnalysis),  [Huggingface](https://huggingface.co/qihoo360/360LayoutAnalysis)  
-   2)2024-06: FlowCE:First Multi-Dimensional Evaluation of Flowchart Comprehensionfor Multimodal Large Language Models [paper](https://arxiv.org/pdf/2406.10057),  [Github](https://github.com/360AILAB-NLP/FlowCE)  
-   3)2024-07: Ranked 1st in the Competition: ICPR 2024 Competition on Multi-line Mathematical Expressions Recognition [leadboard](https://note.kxsz.net/share/f4025d8b-7b50-4034-ad96-1b35633861d4)  
-   4)2024-09: Enhancing Complex Formula Recognition with Hierarchical Detail-Focused Network [paper](https://arxiv.org/abs/2409.11677)
-
+   1)Opesource: 2024.Chiense oriented document layout models:360LayoutAnalysis [Github](https://github.com/360AILAB-NLP/360LayoutAnalysis),  [Huggingface](https://huggingface.co/qihoo360/360LayoutAnalysis)  
+   2)Paper: 2024.FlowCE:First Multi-Dimensional Evaluation of Flowchart Comprehensionfor Multimodal Large Language Models [paper](https://arxiv.org/pdf/2406.10057),  [Github](https://github.com/360AILAB-NLP/FlowCE)  
+   3)Competition: 2024.Ranked 1st in the Competition: ICPR 2024 Competition on Multi-line Mathematical Expressions Recognition [leadboard](https://note.kxsz.net/share/f4025d8b-7b50-4034-ad96-1b35633861d4)  
+   4)Paper: 2024.Enhancing Complex Formula Recognition with Hierarchical Detail-Focused Network [paper](https://arxiv.org/abs/2409.11677)
+   5)Paper: 2024.First Multi-Dimensional Evaluation of Flowchart Comprehension for Multimodal Large Language Models[paper]((https://arxiv.org/abs/2406.10057))
+   6)Competition：2025. Ranked 2nd Competition on End-to-End Document Image Machine Translation Towards Complex Layouts（VLM-OCR-Free）
+   7)Competition：2025. Ranked 3rd Competition on Understanding Chinese College Entrance Exam Papers
+   
 **3. Retrieval-augmented Generation & Application** 
-
    1)2024-02: CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models: [paper](https://arxiv.org/pdf/2401.17043)  
-
