@@ -17,10 +17,11 @@ conducting research in :
 
 **1. Knowlege Graph Construction,Represenation & NLP Application**  
 
-   1)Competition：Ranked 1st in the Competition (2022.08): Ogbl-wikikg2 [leadboard](https://ogb.stanford.edu/docs/leader_linkprop/)
-   2)Competition：Ranked 2nd in the Competition: CCKS2022-multi-modal entity alignment [leadboard](https://tianchi.aliyun.com/competition/entrance/531956/rankingList),  [paper](https://sigkg.cn/ccks2022/?page_id=600)  
-   3)Competition：Ranked 2nd in the Competition: CAIL2022 [leadboard](http://cail.cipsc.org.cn/task_summit.html?raceID=7&cail_tag=2022)
-   4)Paper: Triplere: Knowledge graph embeddings via tripled relation vectors:[paper](https://arxiv.org/abs/2209.08271)
+   1)Competition：Ranked 1st in the Competition (2022.08): Ogbl-wikikg2 [leadboard](https://ogb.stanford.edu/docs/leader_linkprop/)  
+   2)Competition：Ranked 2nd in the Competition: CCKS2022-multi-modal entity alignment [leadboard](https://tianchi.aliyun.com/competition/entrance/531956/rankingList)
+   3)paper: 基于交互编码器与知识蒸馏的多模态实体对齐模型,(https://sigkg.cn/ccks2022/?page_id=600)     
+   3)Competition：Ranked 2nd in the Competition: CAIL2022 [leadboard](http://cail.cipsc.org.cn/task_summit.html?raceID=7&cail_tag=2022)  
+   4)Paper: Triplere: Knowledge graph embeddings via tripled relation vectors:[paper](https://arxiv.org/abs/2209.08271)  
    
 **2. Document Analysis, Layout Parser, Document Understanding & Multi-modal Large Language Models**  
 
