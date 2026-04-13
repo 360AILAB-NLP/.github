@@ -13,6 +13,8 @@ This is the KG & DU Team, Official R&D entity under the 360 AI Research Institut
    4)🏆Competition：2022. Ranked 2nd in the Competition: CAIL2022 [leadboard](http://cail.cipsc.org.cn/task_summit.html?raceID=7&cail_tag=2022)  
    
    5)🔬Paper: 2022. Triplere: Knowledge graph embeddings via tripled relation vectors:[paper](https://arxiv.org/abs/2209.08271)  
+
+   6)🔬Paper: 2026. MMKG-RDS: Reasoning Data Synthesis via Deep Mining of Multimodal Knowledge Graphs:[paper](https://arxiv.org/abs/2602.23632) 
    
 **2. Document Analysis, Layout Parser, Document Understanding & Multi-modal Large Language Models**  
 
@@ -20,9 +22,9 @@ This is the KG & DU Team, Official R&D entity under the 360 AI Research Institut
    
    2)🔬Paper: 2024.FlowCE:First Multi-Dimensional Evaluation of Flowchart Comprehensionfor Multimodal Large Language Models [paper](https://arxiv.org/pdf/2406.10057),  [Github](https://github.com/360AILAB-NLP/FlowCE)  
    
-   4)🔬Paper: 2024.Enhancing Complex Formula Recognition with Hierarchical Detail-Focused Network [paper](https://arxiv.org/abs/2409.11677)  
+   3)🔬Paper: 2024.Enhancing Complex Formula Recognition with Hierarchical Detail-Focused Network [paper](https://arxiv.org/abs/2409.11677)  
    
-   5)🔬Paper: 2024.First Multi-Dimensional Evaluation of Flowchart Comprehension for Multimodal Large Language Models[paper](https://arxiv.org/abs/2406.10057)  
+   4)🔬Paper: 2024.First Multi-Dimensional Evaluation of Flowchart Comprehension for Multimodal Large Language Models[paper](https://arxiv.org/abs/2406.10057)  
    
 **3. Retrieval-augmented Generation & Application** 
 
