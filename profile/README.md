@@ -20,15 +20,9 @@ This is the KG & DU Team, Official R&D entity under the 360 AI Research Institut
    
    2)🔬Paper: 2024.FlowCE:First Multi-Dimensional Evaluation of Flowchart Comprehensionfor Multimodal Large Language Models [paper](https://arxiv.org/pdf/2406.10057),  [Github](https://github.com/360AILAB-NLP/FlowCE)  
    
-   3)🏆Competition: 2024.Ranked 1st in the Competition: ICPR 2024 Competition on Multi-line Mathematical Expressions Recognition [leadboard](https://note.kxsz.net/share/f4025d8b-7b50-4034-ad96-1b35633861d4)  
-   
    4)🔬Paper: 2024.Enhancing Complex Formula Recognition with Hierarchical Detail-Focused Network [paper](https://arxiv.org/abs/2409.11677)  
    
    5)🔬Paper: 2024.First Multi-Dimensional Evaluation of Flowchart Comprehension for Multimodal Large Language Models[paper](https://arxiv.org/abs/2406.10057)  
-   
-   6)🏆Competition：2025. Ranked 2nd Competition on End-to-End Document Image Machine Translation Towards Complex Layouts（VLM-OCR-Free）  
-   
-   7)🏆Competition：2025. Ranked 3rd Competition on Understanding Chinese College Entrance Exam Papers  
    
 **3. Retrieval-augmented Generation & Application** 
 
